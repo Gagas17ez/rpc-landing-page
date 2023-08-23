@@ -12,7 +12,7 @@
     <!-- Navbar Start -->
     <div class="container mx-auto px-5">
         <header class="flex justify-between py-5 items-center">
-            <div class="h-6 w-40">
+            <div class="h-10 w-40">
                 <a href="/"><img src="/images/logo-final.png" alt="Site Logo"></a>
             </div>
             
