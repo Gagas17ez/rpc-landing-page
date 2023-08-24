@@ -9,6 +9,7 @@ export default {
         extend: {
             colors: {
                 "theme-primary": "#9937a6",
+                "theme-primary-dark":"#C475CE",
                 "theme-secondary": "#7A77FF",
                 "theme-grayish-blue": "#9194A1",
                 "theme-dark-blue": "rgb(37, 43, 70)",
