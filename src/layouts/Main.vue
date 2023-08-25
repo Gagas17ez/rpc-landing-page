@@ -18,8 +18,8 @@ import ButtonWA from "../sections/ButtonWA.vue";
 
     <FaqSection />
 
-    <SubscribeSection />
-
     <ButtonWA/>
+
+    <SubscribeSection />
 
 </template>
